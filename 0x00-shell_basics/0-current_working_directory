@@ -1,2 +1,2 @@
 #!/bin/bash
-This is just a file
+echo "pwd"
